@@ -1,0 +1,5 @@
+# FlexLify — all crawlers (search engines and AI answer engines) are welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://flexlify.live/sitemap.xml
